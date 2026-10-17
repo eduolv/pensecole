@@ -1,0 +1,21 @@
+- generic [active] [ref=e1]:
+  - link "Ir para o conteúdo" [ref=e2] [cursor=pointer]:
+    - /url: "#content"
+  - banner [ref=e3]:
+    - link "Falar Agora no Whatsapp" [ref=e13] [cursor=pointer]:
+      - /url: https://wa.me/5511994603488?text=Olá!%20Gostaria%20de%20solicitar%20um%20orçamento
+  - generic [ref=e19]:
+    - generic [ref=e22]:
+      - 'heading "Ativação Visual de Grandes Marcas: Produção, Armazenagem e Instalação em Todo Território Nacional 24h." [level=2] [ref=e25]'
+      - heading "O parceiro de Comunicação Visual que garante padrão de qualidade e entrega de ponta a ponta no Brasil inteiro." [level=4] [ref=e28]
+    - iframe [ref=e49]:
+      - link "Abrir no Maps (abre em uma nova guia)" [ref=f1e4] [cursor=pointer]:
+        - /url: about:invalid#zClosurez
+        - text: Abrir no Maps
+  - contentinfo [ref=e50]:
+    - generic [ref=e51]:
+      - link [ref=e54] [cursor=pointer]:
+        - /url: https://www.pensecole.com/
+        - img "PenseCole | Comunicação Visual e Gráfica" [ref=e55]
+      - paragraph [ref=e57]: Todos os direitos reservados
+  - generic [ref=e58]: desktop
